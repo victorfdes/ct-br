@@ -5,6 +5,6 @@ module.exports = {
   devServer: {
     disableHostCheck: true
   },
-  publicPath: '/ct-br/',
+  // publicPath: '/ct-br/',
   outputDir: 'docs'
 }
