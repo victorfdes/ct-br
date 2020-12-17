@@ -29,13 +29,13 @@
       <button @click="getLS">Show Local Storage</button><br/>
       <button @click="clearLS">Clear Local Storage</button>
     </div>
-    <pre style="text-align: left;">
-      WZRK_K: {{WZRK_K}}
-      WZRK_G: {{WZRK_G}}
-      LRU_CAHCE: {{LRU_CACHE}}
-      WZRK_EV: {{WZRK_EV}}
-      WZRK_ARP: {{WZRK_ARP}}
-    </pre>
+    <div style="text-align: left;">
+      WZRK_K: {{WZRK_K}} <br/><br/>
+      WZRK_G: {{WZRK_G}}<br/><br/>
+      LRU_CAHCE: {{LRU_CACHE}}<br/><br/>
+      WZRK_EV: {{WZRK_EV}}<br/><br/>
+      WZRK_ARP: {{WZRK_ARP}}<br/><br/>
+    </div>
   </div>
 </template>
 
