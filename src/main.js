@@ -25,7 +25,8 @@ Vue.config.productionTip = false
 //   'serviceWorkerPath':  '/sw.js' // path to your custom service worker file
 // })
 // clevertap.init('44Z-R45-995Z', '')
-clevertap.init('TEST-545-448-RW6Z', '')
+// clevertap.init('TEST-545-448-RW6Z', '') -- royson
+clevertap.init('W8W-897-865Z', '')
 
 new Vue({
   render: h => h(App),
